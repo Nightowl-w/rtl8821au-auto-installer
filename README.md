@@ -8,7 +8,7 @@ This script auto-installs the Realtek RTL8821AU WiFi adapter driver on Kali Linu
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/rtl8821au-auto-installer.git
+git clone https://github.com/Nightowl-w/rtl8821au-auto-installer.git
 
 # Change to the directory
 cd rtl8821au-auto-installer
